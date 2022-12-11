@@ -5,7 +5,7 @@ Discord moderation bot with multifunctional features
 
 ## Roadmap For Coding
 
-- (December 2, 2022) Added Multi language (English, Russian, Francais, TÃ¼rkÃ§e) Support 
+- (December 2, 2022) Added Multi language (English, Russian, Francais, Turkce) Support 
 
 - (December 5, 2022) Some Bug Fixed
 
