@@ -24,7 +24,7 @@ No, I'm Sorry
   
 ## Donation
 
-Thanks For Donation In Advance You can contact us via e-mail
+Thanks For Donation In Advance You can contact us via [e-mail](https://github.com/Khontrom/Dykon#donation)
 
   
 ## Contant Us
